@@ -14,4 +14,3 @@ var password = "TyCool123"; // because ANYONE CAN SEE THIS IN VIEW SOURCE!
 }());
 
 
-alert('WELCOME');
