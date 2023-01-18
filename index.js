@@ -265,7 +265,7 @@ const Constants = {
     async afterMain() {
       return Views.messageWithCTA({
         content: `
-        <a href="https://github.com/Tytan-Codes?tab=repositories" target="page"><img src="B1aTtAU.png" alt="BRUH" style="width:100px;height:100px;"></a>
+        <a href="https://github.com/Tytan-Codes?tab=repositories" target="page"><img src="clickMe.png" alt="BRUH" style="width:100px;height:100px;"></a>
         `,
         CTA: {
           text: 'Go back',
