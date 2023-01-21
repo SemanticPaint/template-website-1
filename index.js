@@ -197,7 +197,7 @@ const Constants = {
       return Views.messageWithCTA({
         content: `
           <h1>Hello,</h1>
-          <p>You seem to be here for the first time. I'm Tytan, I'm a little coder. I'm 11 but I seem to like coding.</p>
+          <p>You seem to be here for the first time. I'm Tytan, I LOVE coding! </p>
         `,
         CTA: {
           text: "Let's start!"
@@ -222,7 +222,7 @@ const Constants = {
         content: `
           <h1>Things that I've coded:</h1>
           <p>I code most of my stuff in python.</p>
-          <p>My favorite one is called Better Day: It makes your day easier as a developer easier.</p>
+          <p>My favorite one is called <a href="https://github.com/Tytan-Codes/Better-Day" target="_blank">Better Day</a>: It makes your day easier as a developer easier.</p>
         `,
         CTA: {
           text: 'Keep Going'
