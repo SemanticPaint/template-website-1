@@ -223,6 +223,8 @@ const Constants = {
           <h1>Things that I've coded:</h1>
           <p>I code most of my stuff in python.</p>
           <p>My favorite one is called <a href="https://github.com/Tytan-Codes/Better-Day" target="_blank">Better Day</a>: It makes your day easier as a developer easier.</p>
+          <p> Join my discord server <p/>
+          <iframe src="https://discord.com/widget?id=1066198620644323430&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
         `,
         CTA: {
           text: 'Keep Going'
