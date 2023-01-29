@@ -1,4 +1,4 @@
-console.log('Does this update fast?')
+console.log('What are you doing here?')
 
 // Used in flow decision points
 const Constants = {
