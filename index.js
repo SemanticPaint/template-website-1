@@ -1,3 +1,5 @@
+console.log('Does this update fast?')
+
 // Used in flow decision points
 const Constants = {
     DELETE: 'delete a progress',
