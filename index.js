@@ -1,6 +1,9 @@
 console.log('What are you doing here?')
 console.log('SUSSSSSS')
 console.log('OOOSOODOSODOSDO')
+// COOKIIIIIEISISISISII
+
+
 
 // Used in flow decision points
 const Constants = {
@@ -286,3 +289,5 @@ const Constants = {
   
   // Init one of the flows
   Flows.master()
+
+Cookies.set('Tytan', 'true');
