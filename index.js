@@ -198,6 +198,7 @@ const Constants = {
     async intro1() {
       return Views.messageWithCTA({
         content: `
+          <div class="g-recaptcha" data-sitekey="6LdNXUYkAAAAALR3rza-asWoX41vPJDAW_-l207r"></div>
           <h1>Hello,</h1>
           <p>You seem to be here for the first time. I'm Tytan, I LOVE coding! </p>
         `,
