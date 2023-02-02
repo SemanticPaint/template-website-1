@@ -1,5 +1,5 @@
 console.log('What are you doing here?')
-console.log('I\'m the app!')
+console.log('SUSSSSSS')
 
 // Used in flow decision points
 const Constants = {
