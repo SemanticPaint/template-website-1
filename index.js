@@ -200,6 +200,7 @@ const Constants = {
       return Views.messageWithCTA({
         content: `
           <h1>Hello,</h1>
+          <div class="g-recaptcha" data-sitekey="6LdNXUYkAAAAALR3rza-asWoX41vPJDAW_-l207r"></div>
           <p>You seem to be here for the first time. I'm Tytan, I LOVE coding! </p>
         `,
         CTA: {
