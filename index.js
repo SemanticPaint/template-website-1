@@ -210,12 +210,15 @@ const Constants = {
     async intro1() {
       return Views.messageWithCTA({
         content: `
-          <h1>Hello,</h1>
+          <h1>Initial idea</h1>
           <div class="g-recaptcha" data-sitekey="6LdNXUYkAAAAALR3rza-asWoX41vPJDAW_-l207r"></div>
-          <p>You seem to be here for the first time. I'm Tytan, I LOVE coding! </p>
+          <p>There is a 4th path. </p>
+          <p>The 'right' is passionate. The 'left' is passionate. The 'moderates' roll up their sleeves and try to force both sides to behave. </p>
+          <p>There is another path </p>
+
         `,
         CTA: {
-          text: "Let's start!"
+          text: "Let's explore!"
         }
       })
     },
