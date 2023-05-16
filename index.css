@@ -298,7 +298,7 @@
   
   .message-view {
     --slide-amount: -10px;
-    width: clamp(180px, 66.6vw, 360px);
+    width: clamp(280px, 88.8vw, 460px);
     margin-top: -5vh;
     animation:
       fade-in calc(var(--transition-duration) * 1ms) forwards,
