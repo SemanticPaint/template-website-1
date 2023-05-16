@@ -213,7 +213,9 @@ const Constants = {
           <h1>Initial idea</h1>
           <div class="g-recaptcha" data-sitekey="6LdNXUYkAAAAALR3rza-asWoX41vPJDAW_-l207r"></div>
           <p>There is a 4th path. </p>
-          <p>The 'right' is passionate. The 'left' is passionate. The 'moderates' roll up their sleeves and try to force both sides to behave. </p>
+          <p>The 'right' is passionate.</p> 
+          <p>The 'left' is passionate.</p>
+          <p>The 'moderates' roll up their sleeves and try to force both sides to behave. </p>
           <p>There is another path </p>
 
         `,
