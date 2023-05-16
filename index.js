@@ -216,11 +216,11 @@ const Constants = {
           <p>The 'right' is passionate.</p> 
           <p>The 'left' is passionate.</p>
           <p>The 'moderates' roll up their sleeves and try to force both sides to behave. </p>
-          <p>There is another path </p>
+          <p>Hey moderates - there is another path </p>
 
         `,
         CTA: {
-          text: "Let's explore!"
+          text: "Cultivate your own garden"
         }
       })
     },
