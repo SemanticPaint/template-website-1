@@ -157,7 +157,7 @@ const Constants = {
         `
       }
   
-      const animationDuration = 1500
+      const animationDuration = 1000
   
       const cssVariables = () => `;
         --animation-duration: ${animationDuration}ms;
@@ -220,7 +220,6 @@ const Constants = {
         `,
         CTA: {
           text: "Consider this"
-          BACK: "Go back in the flow"
         }
       })
     },
@@ -248,6 +247,10 @@ const Constants = {
         `,
         CTA: {
           text: 'more to come...'
+        },
+        CTA: {
+          text: 'Go back',
+          type: 'different'
         }
       })
     },
