@@ -220,6 +220,7 @@ const Constants = {
         `,
         CTA: {
           text: "Consider this"
+          BACK: "Go back in the flow"
         }
       })
     },
