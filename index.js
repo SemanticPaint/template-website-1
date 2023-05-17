@@ -212,14 +212,14 @@ const Constants = {
         content: `
           <h1>Initial idea</h1>
           <div class="g-recaptcha" data-sitekey="6LdNXUYkAAAAALR3rza-asWoX41vPJDAW_-l207r"></div>
-          <p>The 'right' is passionate.</p> 
-          <p>The 'left' is passionate.</p>
-          <p>The 'moderates' roll up their sleeves and try to force both sides to behave. </p>
-          <p>Hey moderates - there is another path </p>
+          <p>(1) The 'right' is passionate.</p> 
+          <p>(2) The 'left' is passionate.</p>
+          <p>(3) The 'moderates' roll up their sleeves and try to force both sides to behave. </p>
+          <p>Moderates - there is another way forward... </p>
 
         `,
         CTA: {
-          text: "Consider this"
+          text: "Consider (4)"
         }
       })
     },
@@ -246,6 +246,11 @@ const Constants = {
           <h3>Come back later</h3>
         
         `,
+          CTA: {
+          text: 'Delete progress',
+          type: 'danger',
+          key: Constants.DELETE
+        },
       })
     },
   
