@@ -215,7 +215,7 @@ const Constants = {
           <p>(1) The 'right' is passionate.</p> 
           <p>(2) The 'left' is passionate.</p>
           <p>(3) The 'moderates' roll up their sleeves and try to force both sides to behave. </p>
-          <p>Moderates - there is another way forward... </p>
+          <p>(4) Moderates - there is another way forward... </p>
 
         `,
         CTA: {
@@ -233,7 +233,7 @@ const Constants = {
 
         `,
         CTA: {
-          text: 'What else?'
+          text: 'It has already been said...'
         }
       })
     },
@@ -246,11 +246,6 @@ const Constants = {
           <h3>Come back later</h3>
         
         `,
-          CTA: {
-          text: 'Delete progress',
-          type: 'danger',
-          key: Constants.DELETE
-        }
       })
     },
   
