@@ -246,15 +246,17 @@ const Constants = {
           <h3>Come back later</h3>
         
         `,
+          CTA: {
+          text: ''
+        }
       })
     },
   
     async intro4() {
       return Views.messageWithCTA({
         content: `
-          <h1>My Github</h1>
-          <p>You can check me out at <a href="https://github.com/tytan-codes" target="_blank">github.com/tytan-codes</a></p>
-          <p>Your progress on this website will be saved, as you will soon see.</p>
+          <h1>Nothing yet</h1>
+          <p>Nothing yet.</p>
           
         `,
         CTA: {
@@ -267,15 +269,15 @@ const Constants = {
       return Views.messageWithCTA({
         content: `
           <h1>Now...</h1>
-          <p>You can look at all my coding things:</p>
-          <p>Check it out:</p>
+          <p>Nothing</p>
+          <p>nothing</p>
         `,
         CTA: [{
           text: 'Delete progress',
           type: 'danger',
           key: Constants.DELETE
         }, {
-          text: 'My repos',
+          text: 'Link for later',
           type: 'different',
           key: Constants.FORWARD
         }]
