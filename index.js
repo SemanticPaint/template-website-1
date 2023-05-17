@@ -246,7 +246,7 @@ const Constants = {
           <h3>Come back later</h3>
         
         `,
-          CTA: [{
+          CTA: {
           text: 'Come back later',
           type: 'different',
           key: Constants.DELETE
@@ -260,10 +260,11 @@ const Constants = {
           <h1>My Github</h1>
           <p>You can check me out at <a href="https://github.com/tytan-codes" target="_blank">github.com/tytan-codes</a></p>
           <p>Your progress on this website will be saved, as you will soon see.</p>
+          
         `,
         CTA: {
-          text: "Save it"
-        }
+          text: 'Save it'
+        },
       })
     },
   
