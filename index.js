@@ -212,7 +212,6 @@ const Constants = {
         content: `
           <h1>Initial idea</h1>
           <div class="g-recaptcha" data-sitekey="6LdNXUYkAAAAALR3rza-asWoX41vPJDAW_-l207r"></div>
-          <p>There is a 4th path. </p>
           <p>The 'right' is passionate.</p> 
           <p>The 'left' is passionate.</p>
           <p>The 'moderates' roll up their sleeves and try to force both sides to behave. </p>
@@ -220,7 +219,7 @@ const Constants = {
 
         `,
         CTA: {
-          text: "Cultivate your own garden"
+          text: "Consider this"
         }
       })
     },
@@ -228,8 +227,10 @@ const Constants = {
     async intro2() {
       return Views.messageWithCTA({
         content: `
-          <h1>Who am I</h1>
-          <p>I'm a kid who loves to code.</p>
+          <h1>Inner, not outer</h1>
+          <p>Changing the outer world is like playing god.</p>
+          <p>Instead of 'knowing what is best' and trying to force it like everyone else, how about cultivating your own garden?</p>
+
         `,
         CTA: {
           text: 'What else?'
@@ -240,13 +241,12 @@ const Constants = {
     async intro3() {
       return Views.messageWithCTA({
         content: `
-          <h1>Things that I've coded:</h1>
-          <p>I code most of my stuff in python.</p>
-          <p>My favorite one is called <a href="https://github.com/Tytan-Codes/Better-Day" target="_blank">Better Day</a>: It makes your day easier as a developer easier.</p>
+          <h1>Other people have said it best</h1>
+          <p>Those in ancient times who wished to keep themselves alive did not use eloquence to ornament their knowledge. They did not use their knowledge to make trouble for the world; they did not use their knowledge to make trouble for Virtue. Loftily they kept to their places and returned to their inborn nature. Having done that, what more was there for them to do?</p>
 
         `,
         CTA: {
-          text: 'Keep Going'
+          text: 'more to come...'
         }
       })
     },
