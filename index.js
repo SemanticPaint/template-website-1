@@ -246,11 +246,6 @@ const Constants = {
           <h3>Come back later</h3>
         
         `,
-          CTA: {
-          text: 'Come back later',
-          type: 'different',
-          key: Constants.DELETE
-        },
       })
     },
   
