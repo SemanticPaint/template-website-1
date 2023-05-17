@@ -250,7 +250,7 @@ const Constants = {
           text: 'Delete progress',
           type: 'danger',
           key: Constants.DELETE
-        },
+        }
       })
     },
   
