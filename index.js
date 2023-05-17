@@ -229,7 +229,7 @@ const Constants = {
         content: `
           <h1>Inner, not outer</h1>
           <p>Changing the outer world is like playing god.</p>
-          <p>Instead of 'knowing what is best' and trying to force it like everyone else, how about cultivating your own garden?</p>
+          <p>Instead of 'knowing what is best' and trying to force it (like everyone else), you can <i>cultivate your own garden.</i></p>
 
         `,
         CTA: {
