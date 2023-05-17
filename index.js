@@ -246,11 +246,9 @@ const Constants = {
 
         `,
         CTA: {
-          text: 'more to come...'
-        },
-        CTA: {
           text: 'Go back',
-          type: 'different'
+          type: 'different',
+          key: Constants.BACK
         }
       })
     },
