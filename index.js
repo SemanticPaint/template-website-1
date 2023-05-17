@@ -243,7 +243,7 @@ const Constants = {
         content: `
           <h1>Other people have said it best</h1>
           <p>"Those in ancient times who wished to keep themselves alive did not use eloquence to ornament their knowledge. They did not use their knowledge to make trouble for the world; they did not use their knowledge to make trouble for Virtue. Loftily they kept to their places and returned to their inborn nature. Having done that, what more was there for them to do?"</p>
-          <h3>Come back later</h3>
+          <h3>Come back later as this expands...</h3>
         
         `,
           CTA: {
